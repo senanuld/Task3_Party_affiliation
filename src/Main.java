@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         //cascade if then els
         Scanner input = new Scanner(System.in);
-        String menuChoice = "";
+
         System.out.print("Enter party affiliation: ");
         input = new Scanner(System.in);
         switch (input.next()) {
